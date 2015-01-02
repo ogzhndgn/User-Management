@@ -1,0 +1,3 @@
+com\thepoet\userman\model\User.class
+com\thepoet\userman\controller\UserController.class
+com\thepoet\userman\service\UserService.class
